@@ -1,0 +1,150 @@
+body {
+
+   background-color: #CBFA89;
+
+}
+
+h3 {
+   text-align: center;
+
+}
+
+p {
+
+   text-align: center;
+
+}
+
+#btn_fruit {
+   
+  margin: 0px 120px 0px 120px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F85D6A;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #BEBBBB;
+
+}
+
+#btn_auto {
+   
+  margin: 10px 120px 0px 120px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F85D6A;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #BEBBBB;
+
+}
+
+#btn_check {
+  
+  margin: 0px 120px 0px 120px;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F85D6A;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 5px #BEBBBB;
+}
+
+#input_num {
+
+   margin: 0px 0px 10px 139px;
+
+}
+
+#user_login {
+
+   margin: 0px 0px 0px 80px;
+
+}
+#email_login {
+
+   margin: 0px 0px 0px 80px;
+
+}
+
+#btn_log {
+  
+  margin: 0px 0px 0px 135px;
+
+}
+
+#results {
+   text-align: center;
+   margin: auto;
+   margin: 0px 0px 10px 0px;
+
+
+}
+
+#result_auto {
+
+   text-align: center;
+   margin: auto;
+
+  
+}
+#result_big {
+
+   text-align: center;
+   margin: auto;
+
+  
+}
+
+#money {
+
+   width: 70px;
+   height: 20px;
+   background-color: #ffffff;
+   margin: 0px 0px 10px 275px;
+   border-radius: 2px;
+
+  
+}
+
+#user_hold {
+
+   width: 60px;
+   height: 20px;
+   background-color: #ffffff;
+   float: left;
+   border-radius: 2px;
+
+  
+}
+
+#btn_fruit:active {
+  background-color: #F85D6A;
+  box-shadow: 0 3px #BEBBBB;
+  transform: translateY(4px);
+}
+
+#btn_auto:active {
+  background-color: #F85D6A;
+  box-shadow: 0 3px #BEBBBB;
+  transform: translateY(4px);
+}
+
+#btn_check:active {
+  background-color: #F85D6A;
+  box-shadow: 0 3px #BEBBBB;
+  transform: translateY(4px);
+}
+
